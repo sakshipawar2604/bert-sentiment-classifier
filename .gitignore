@@ -1,0 +1,14 @@
+# Model weights — local only, not on GitHub
+model/
+*.pt
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
